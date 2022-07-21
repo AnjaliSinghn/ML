@@ -1,0 +1,2214 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+Machine Learning 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape italic
+\size large
+Practical File
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape smallcaps
+BACHELOR OF TECHNOLOGY 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Information Technology
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+SUBMITTED BY : ANJALI SINGH
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+CRN : 2121009
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+URN : 2104465
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/GNE LOGO.png
+	rotateOrigin centerTop
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+GURU NANAK DEV ENGINEERING COLLEGE
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+LUDHIANA-141006, INDIA
+\series default
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+
+\series bold
+\shape smallcaps
+\size largest
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/images (1).jpeg
+	width 15cm
+	height 15cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing double
+\noindent
+
+\shape smallcaps
+\size normal
+BASIC PYTHON PROGRAMS
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Print Name,Age and Roll number
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Else If Statement
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+For loop
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing double
+\noindent
+
+\size normal
+NUMPY LIBRARY
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Numpy library to add two number
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Numpy libraryto find the minimum marks from an array
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Numpy library to find the maximum car attribute from an array
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing double
+\noindent
+
+\size normal
+PANADA LIBRARY
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing double
+\noindent
+
+\size small
+Using Panda for dataframing
+\end_layout
+
+\begin_layout Section
+
+\size normal
+MATPLOTLIB
+\end_layout
+
+\begin_layout Section
+
+\size normal
+REPORT ON AI IN MANUFACTURING
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Introduction
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+How is AI used in the manufacturing industry
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+How will AI change manufacturing
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+AI In Manufacturing Industry | Use Cases
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+What are the benets of AI in Manufacturing
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Conclusion
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing double
+\noindent
+
+\size normal
+REPORT ON AI TOOLS
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Scikit learning
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Overview
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Features
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Apache MAXNet
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Overview
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Features
+\end_layout
+
+\begin_layout Subsection
+\paragraph_spacing single
+\noindent
+
+\size small
+Tensor Flow
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Overview
+\end_layout
+
+\begin_layout Subsubsection
+
+\size footnotesize
+Features
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\shape smallcaps
+\size normal
+MORE TERMS TO KNOW
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Simple linear regression
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Multilple linear regression
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Polynomial regression
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+SVR
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Decision tree
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+Random Forest
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+KNN
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+SVM
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+K-means
+\end_layout
+
+\begin_layout Subsection
+
+\size small
+K-modes
+\end_layout
+
+\begin_layout Standard
+
+\size small
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+11/07/2022
+\end_layout
+
+\begin_layout Section*
+1.
+ BASICS PYTHON PROGRAM
+\end_layout
+
+\begin_layout Subsubsection*
+1.1 To print name, age and roll number
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE: 
+\end_layout
+
+\begin_layout Standard
+a=18.10
+\end_layout
+
+\begin_layout Standard
+print(
+\begin_inset Quotes eld
+\end_inset
+
+NAME-ANJALI SINGH
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+print(
+\begin_inset Quotes eld
+\end_inset
+
+CRN-2121009
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+print(a)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/C1.jpeg
+	rotateOrigin leftTop
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+1.2 To use if else statement in python
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+a=24
+\end_layout
+
+\begin_layout Standard
+if a==2:
+\end_layout
+
+\begin_layout Standard
+print("TRUE")
+\end_layout
+
+\begin_layout Standard
+else:
+\end_layout
+
+\begin_layout Standard
+print("FALSE")
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/C2.jpeg
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+1.3 To use for loop in python
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+n = 4
+\end_layout
+
+\begin_layout Standard
+for i in range(0, n):
+\end_layout
+
+\begin_layout Standard
+print(i)
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/C3.jpeg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+2.
+ NUMPY LIBRARY
+\end_layout
+
+\begin_layout Subsubsection*
+2.1 To use numpy library to add two numbers
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+import numpy as np
+\end_layout
+
+\begin_layout Standard
+a = np.array([98,99,100])
+\end_layout
+
+\begin_layout Standard
+b = np.array([5])
+\end_layout
+
+\begin_layout Standard
+c = np.add(a,b)
+\end_layout
+
+\begin_layout Standard
+print(c)
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/C4.jpeg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph*
+2.2 To use Numpy Library to find the min marks from an array 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+import numpy as np
+\end_layout
+
+\begin_layout Standard
+student_marks_arr = np.array([78, 92, 36, 64, 89])
+\end_layout
+
+\begin_layout Standard
+student_marks_arr
+\end_layout
+
+\begin_layout Standard
+student_marks_arr.shape
+\end_layout
+
+\begin_layout Standard
+a=min(student_marks_arr)
+\end_layout
+
+\begin_layout Standard
+print(a)
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/min.jpeg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph*
+2.3 To use Numpy Libray to find the maximum car attribute from an array
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+import numpy as np
+\end_layout
+
+\begin_layout Standard
+car_attributes = [[18, 15, 18, 16, 17],[130, 165, 150, 150, 140],[307, 350,
+ 318, 304, 302]]
+\end_layout
+
+\begin_layout Standard
+car_attributes_arr = np.array(car_attributes)
+\end_layout
+
+\begin_layout Standard
+a=np.max(car_attributes_arr) 
+\end_layout
+
+\begin_layout Standard
+print(a)
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/car.jpeg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+3.
+ PANDA LIBRARY
+\end_layout
+
+\begin_layout Subsubsection*
+3.1 Using Panda for data framing
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+import pandas as pd
+\end_layout
+
+\begin_layout Standard
+dic1= {
+\end_layout
+
+\begin_layout Standard
+"name": ['harry','rohan','skillf','sohan'], 
+\end_layout
+
+\begin_layout Standard
+"marks":[92,34,24,17], "city":['rampur','kolkata','ludhiana','jalandhar']
+\end_layout
+
+\begin_layout Standard
+}
+\end_layout
+
+\begin_layout Standard
+df=pd.DataFrame(dic1)
+\end_layout
+
+\begin_layout Standard
+print(df) 
+\end_layout
+
+\begin_layout Standard
+df.to_csv('a.csv')
+\end_layout
+
+\begin_layout Standard
+print(df.head(2))
+\end_layout
+
+\begin_layout Standard
+print(df.tail(2))
+\end_layout
+
+\begin_layout Standard
+print(df.describe())
+\end_layout
+
+\begin_layout Standard
+df['marks']
+\end_layout
+
+\begin_layout Standard
+df['marks'][0]
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/C5.jpeg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+4.
+ MATPLOTLIP
+\end_layout
+
+\begin_layout Subsubsection*
+To use matplotlib library
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+import matplotlib.pyplot as plt
+\end_layout
+
+\begin_layout Standard
+plt.plot([1,2,3],[2,5,7])
+\end_layout
+
+\begin_layout Standard
+plt.show() 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/graph.jpeg
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+12/07/2022
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+5.REPORT ON 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+ARTIFICIAL INTELLIGENCE IN MANUFACTURING
+\end_layout
+
+\begin_layout Standard
+AI is a pervasive technology, the application and impact of which span all
+ sectors of the economy, from manufacturing and media to education to healthcare.
+ The four types of intelligences are as follows (Huang & Rust, 2018): 
+\end_layout
+
+\begin_layout Standard
+1.
+ Analytical (learns and adapts systematically based on data) .
+ 
+\end_layout
+
+\begin_layout Standard
+2.
+ Intuitive (learns and adapts intuitively based on understanding).
+\end_layout
+
+\begin_layout Standard
+3.
+ Empathetic (learns and adapts empathetically based on experience.
+\end_layout
+
+\begin_layout Standard
+4.
+ Machanics (minimal degree of learning or adaptation).
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/AI.webp
+	width 10cm
+	height 10cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\noun on
+5.1.
+ Introduction:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Intelligent manufacturing is a constantly evolving concept, which can be
+ summarized into three basic prototypes: digital manufacturing , digital-network
+ed manufacturing (2nd generation), and new-generation intelligent manufacturing
+ .
+ By analysing the evolution of intelligent manufacturing, it is evident,
+ that the process of developing from traditional manufacturing to intelligent
+ manufacturing is also a process of developing from the original human-physical
+ systems (HPS) to human-cyber-physical systems (HCPS).
+ An HCPS reveals the basic principles of intelligent manufacturing development
+ and is the theoretical basis for supporting the development of new-generation
+ intelligent manufacturing.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\noun on
+5.2.
+ How is AI used in the manufacturing industry?
+\end_layout
+
+\begin_layout Standard
+In manufacturing, AI can oer the most value in planning and production oor
+ operations.
+ According to a BCG report, the most important AI use cases in the manufacturing
+ industry are:
+\end_layout
+
+\begin_layout Standard
+1.
+ Intelligent 
+\end_layout
+
+\begin_layout Standard
+2.
+ self-optimizing machines that automate production processes 
+\end_layout
+
+\begin_layout Standard
+3.
+ Forecasting eciency losses for better planning
+\end_layout
+
+\begin_layout Standard
+4.
+ Detecting quality defects to facilitate predictive maintenance 
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+\noun on
+5.3.
+ How will AI change manufacturing? 
+\end_layout
+
+\begin_layout Standard
+\noindent
+The emergence of 4IR technologies will usher in the era of smart manufacturing
+ with digital factories.
+ According to the IFR (International Federation of Robotics), there were
+ already 2.7 million industrial robots operating in factories worldwide in
+ 2020.
+ This was a 12% increase as compared to 2019, and with digitization initiatives
+ growing exponentially, the trend is projected to grow further.
+ Manufacturers will continue to invest in technologies like AI and machine
+ learning to further bring down production costs and improve time-to-market.
+ In the aftermath of a global pandemic, manufacturers will strive to make
+ their businesses more resilient by adopting technologies that automate
+ tasks, forecast disruptions, and facilitate end-to-end control of all operation
+s.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/AI 1.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+\noun on
+5.4.
+ AI In Manufacturing Industry
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+\noun on
+|Use Cases
+\end_layout
+
+\begin_layout Standard
+1.
+ Articial intelligence in logistics 
+\end_layout
+
+\begin_layout Standard
+2.
+ AI robots
+\end_layout
+
+\begin_layout Standard
+3.
+ Articial intelligence in supply chain management
+\end_layout
+
+\begin_layout Standard
+4.
+ AI autonomous vehicles
+\end_layout
+
+\begin_layout Standard
+5.
+ AI for factory automation 
+\end_layout
+
+\begin_layout Standard
+6.
+ AI for IT operations
+\end_layout
+
+\begin_layout Standard
+7.
+ AI in design and manufacturing 
+\end_layout
+
+\begin_layout Standard
+8.
+ Articial intelligence and IoT
+\end_layout
+
+\begin_layout Standard
+9.
+ AI in warehouse management 
+\end_layout
+
+\begin_layout Standard
+10.
+ AI process automation 
+\end_layout
+
+\begin_layout Standard
+11.
+ AI for predictive maintenance 
+\end_layout
+
+\begin_layout Standard
+12.
+ AI-based product development
+\end_layout
+
+\begin_layout Standard
+13.
+ AI-based connected factory 
+\end_layout
+
+\begin_layout Standard
+14.
+ AI-based visual inspections and quality control
+\end_layout
+
+\begin_layout Standard
+15.
+ AI for purchasing price variance 
+\end_layout
+
+\begin_layout Standard
+16.
+ AI order management
+\end_layout
+
+\begin_layout Standard
+17.
+ AI for cybersecurity
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/AI 2.jpg
+	width 10cm
+	height 10cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size larger
+\noun on
+There are many areas where articial intelligence and machine learning are
+ transforming manufacturing today like: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+*Machine maintenance:
+\end_layout
+
+\begin_layout Standard
+\noindent
+Modern maintenance management systems aim to ensure the optimal, complete,
+ and safe operation of all critical facilities and production equipment.
+ Machine learning in manufacturing can help by implementing ecient predictive
+ maintenance for critical production equipment.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+*Cybersecurity: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+With the drastic rise of cyber threats, companies are looking for new ways
+ to defend themselves from these attacks.
+ As these challenges increase over time, many organizations are turning
+ to AI to help solve their most signicant cybersecurity challenges.
+ With large amounts of data and operating technology environments producing
+ mountains of logs and dataand their respective networks, appliances, and
+ applicationsAI is the perfect solution, since it's able to process and
+ analyze these enormous volumes of information.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+*Robotics: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+The future of AI in manufacturing is largely dependent on the development
+ of new robotics.
+ Industrial robots, also called manufacturing robots, are indispensable
+ tools that can be used to increase eciency and productivity.
+ They can help manage human workers by performing repetitive tasks, such
+ as packing, shipping, and inspection.
+ Industrial robots are also used in all types of industries, including appliance
+ assembly, food processing, injection molding, metalworking, welding, and
+ painting.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size larger
+\noun on
+5.5.
+ What are the benets of AI in Manufacturing?
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+1.
+ Safety:
+\end_layout
+
+\begin_layout Standard
+\noindent
+As one of the most dangerous industries, there are more than 3,000 major
+ injuries and nine fatalities in manufacturing each year in the United States,
+ which shows how important it is for companies to use AI-powered robots
+ to reduce accidents in their work areas.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+2.
+ Eciency:
+\end_layout
+
+\begin_layout Standard
+\noindent
+An important aspect of AI implementation in the manufacturing industry is
+ the ability to produce at any time, regardless of human limitations.
+ Robots can work around the clock, which means that businesses can increase
+ production by a huge amount.
+ They'll also be able to scale for mass consumers.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size large
+\noun on
+3.
+ Cost reduction:
+\end_layout
+
+\begin_layout Standard
+\noindent
+An additional benet of AI in manufacturing is its ability to reduce the
+ operation costs of manufacturers.
+ Leveraging AI technologies can enhance organizations' analytics capabilities
+ and thus allow them to reduce the use of resources, better predict the
+ future, and boost their productivity.
+ The use of AI can also lead to more accurate sales and production forecasts,
+ reduced waste in inventory, and improved nancial results.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/AI 3.png
+	width 12cm
+	height 12cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/AI 4.jpg
+	width 10cm
+	height 10cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size largest
+\noun on
+5.6.
+ Conclusion:
+\end_layout
+
+\begin_layout Standard
+\noindent
+The future of AI in manufacturing is looking bright, with machine learning
+ improving eciency in manufacturing work environmentsand leading to better
+ industry performance overall.
+ For years robotics, advanced analytics, and automation has been a major
+ part of the manufacturing industry.
+ The increasing scale of adoption of AI in manufacturing seems more like
+ an evolution, rather than an industry disruption.
+ Technology is already here and more massive implementation is a matter
+ of time.
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+13/07/2022
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\align center
+
+\series bold
+\size largest
+6.REPORT ON AI TOOLS
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+6.1.SCIKIT LEARN
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/S 1.png
+	width 7cm
+	height 7cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+6.1.1.Overview
+\end_layout
+
+\begin_layout Standard
+The scikit-learn project started as scikits.learn, a Google Summer of Code
+ project by French data scientist David Cournapeau.
+ Its name stems from the notion that it is a "SciKit" (SciPy Toolkit), a
+ separately-developed and distributed third-party extension to SciPy.The
+ original codebase was later rewritten by other developers.
+ In 2010 Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort and Vincent
+ Michel, all from the French Institute for Research in Computer Science
+ and Automation in Rocquencourt, France, took leadership of the project
+ and made the first public release on February the 1st 2010.
+\end_layout
+
+\begin_layout Subsection*
+6.1.2.FEATURES OF SCIKIT LEARNING:-
+\end_layout
+
+\begin_layout Enumerate
+DATASETS: Scikit-learn comes with several inbuilt datasets such as the iris
+ dataset, house prices dataset, diabetes dataset, etc.
+ The main functions of these datasets are that they are easy to understand
+ and you can directly implement ML models on them.
+\end_layout
+
+\begin_layout Enumerate
+DATA SPLITTING : Sklearn provided the functionality to split the dataset
+ for training and testing.
+ Splitting the dataset is essential for an unbiased evaluation of prediction
+ performance.
+ We can define what proportion of our data to be included in train and test
+ datasets.
+\end_layout
+
+\begin_layout Enumerate
+LINEAR REGRESSION : This supervised ML model is used when the output variable
+ is continuous and it follows linear relation with dependent variables.
+ It can be used to forecast sales in the coming months by analyzing the
+ sales data for previous months.
+\end_layout
+
+\begin_layout Enumerate
+DECISION TREE : A Decision Tree is a powerful tool that can be used for
+ both classification and regression problems.
+ It uses a tree-like model to make decisions and predict the output.
+ It consists of roots and nodes.
+ Roots represent the decision to split and nodes represent an output variable
+ value.
+\end_layout
+
+\begin_layout Enumerate
+BOOSTING : Boosting is a technique in which multiple models are trained
+ in such a way that the input of a model is dependent on the output of the
+ previous model.
+ In Boosting, the data which is predicted incorrectly is given more preference.
+ Ex- Ada Boost, Gradient Boost.
+\end_layout
+
+\begin_layout Enumerate
+RANDOM FOREST : Random Forest is a bagging technique in which hundreds/thousands
+ of decision trees are used to build the model.
+ Random Forest can be used for both classification and regression problems.
+ It can be used to classify loan applicants, identify fraudulent activity
+ and predict diseases.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/S2.png
+	width 15cm
+	height 15cm
+	keepAspectRatio
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+6.2.APACHE MXNET
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/MX 1.jpeg
+	width 7cm
+	height 7cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+6.2.1.OVERVIEW
+\end_layout
+
+\begin_layout Standard
+Apache MXNet is an open-source deep learning software framework, used to
+ train and deploy deep neural networks.
+ It is scalable, allowing for fast model training and supports a flexible
+ programming model and multiple programming languages (including C++, Python,
+ Java, Julia, MATLAB, JavaScript, Go, R, Scala, Perl, and Wolfram Language).
+ The MXNet library is portable and can scale to multiple GPUs as well as
+ multiple machines.
+ It was co-developed by Carlos Guestrin at University of Washington.
+\end_layout
+
+\begin_layout Subsection*
+6.2.2.FEATURES APACHE MXNET is a scalable deep learning framework that supports
+ deep learning models, such as; convolutional neural networks (CNNs) and
+ long short-term memory networks (LSTMs).
+\end_layout
+
+\begin_layout Enumerate
+SCALABLE : MXNet can be distributed on dynamic cloud infrastructure using
+ a distributed parameter server (based on research at Carnegie Mellon University
+, Baidu, and Google[4]).
+ with multiple GPUs or CPUs the framework approaches linear scale.
+\end_layout
+
+\begin_layout Enumerate
+FLEXIBLE : MXNet supports both imperative and symbolic programming.
+ The framework allows developers to track, debug, save checkpoints, modify
+ hyperparameters, and perform early stopping.
+\end_layout
+
+\begin_layout Enumerate
+MULTIPLE LANGUAGES : MXNet supports Python, R, Scala, Clojure, Julia, Perl,
+ MATLAB and JavaScript for front-end development, and C++ for back-end optimizat
+ion.
+\end_layout
+
+\begin_layout Enumerate
+PORTABLE : Supports an efficient deployment of a trained model to low-end
+ devices for inference, such as mobile devices (using Amalgamation[5]),
+ Internet of things devices (using AWS Greengrass), serverless computing
+ (using AWS Lambda) or containers.
+ These low-end environments can have only weaker CPU or limited memory (RAM),
+ and should be able to use the models that were trained on a higher-level
+ environment (GPU based cluster, for example).
+\end_layout
+
+\begin_layout Enumerate
+CLOUD SUPPORT : MXNet is supported by public cloud providers including Amazon
+ Web Services (AWS)[6] and Microsoft Azure.[7] Amazon has chosen MXNet as
+ its deep learning framework of choice at AWS.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/MX 2.png
+	width 15cm
+	height 15cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Newpage newpage
+\end_inset
+
+
+\series bold
+\size larger
+6.3.TENSORFLOW
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/T 1.png
+	width 7cm
+	height 7cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+6.3.1OVERVIEW
+\end_layout
+
+\begin_layout Standard
+\noindent
+TensorFlow is a free and open-source software library for machine learning
+ and artificial intelligence.
+ It can be used across a range of tasks but has a particular focus on training
+ and inference of deep neural networks
+\end_layout
+
+\begin_layout Standard
+\noindent
+TensorFlow was developed by the Google Brain team for internal Google use
+ in research and production.The initial version was released under the Apache
+ License 2.0 in 2015.
+ Google released the updated version of TensorFlow, named TensorFlow 2.0,
+ in September 2019.
+\end_layout
+
+\begin_layout Subsection*
+6.3.2FEATURES OF TENSORFLOW:-
+\end_layout
+
+\begin_layout Enumerate
+AUTODIFFERENTIATION : AutoDifferentiation is the process of automatically
+ calculating the gradient vector of a model with respect to each of its
+ parameters.
+ With this feature, TensorFlow can automatically compute the gradients for
+ the parameters in a model, which is useful to algorithms such as backpropagatio
+n which require gradients to optimize performance.[32] To do so, the framework
+ must keep track of the order of operations done to the input Tensors in
+ a model, and then compute the gradients with respect to the appropriate
+ parameters.
+\end_layout
+
+\begin_layout Enumerate
+EAGER EXECUTION : TensorFlow includes an “eager execution” mode, which means
+ that operations are evaluated immediately as opposed to being added to
+ a computational graph which is executed later.[33] Code executed eagerly
+ can be examined step-by step-through a debugger, since data is augmented
+ at each line of code rather than later in a computational graph.[33] This
+ execution paradigm is considered to be easier to debug because of its step
+ by step transparency.
+\end_layout
+
+\begin_layout Enumerate
+DISTRIBUTE : In both eager and graph executions, TensorFlow provides an
+ API for distributing computation across multiple devices with various distribut
+ion strategies.[34] This distributed computing can often speed up the execution
+ of training and evaluating of TensorFlow models and is a common practice
+ in the field of AI.
+\end_layout
+
+\begin_layout Enumerate
+LOSSES : To train and assess models, TensorFlow provides a set of loss functions
+ (also known as cost functions).[36] Some popular examples include mean squared
+ error (MSE) and binary cross entropy (BCE).[36] These loss functions compute
+ the “error” or “difference” between a model’s output and the expected output
+ (more broadly, the difference between two tensors).
+ For different datasets and models, different losses are used to prioritize
+ certain aspects of performance.
+\end_layout
+
+\begin_layout Enumerate
+METRICS : In order to assess the performance of machine learning models,
+ TensorFlow gives API access to commonly used metrics.
+ Examples include various accuracy metrics (binary, categorical, sparse
+ categorical) along with other metrics such as Precision, Recall, and Intersecti
+on-over-Union .
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/T2.png
+	width 15cm
+	height 15cm
+	keepAspectRatio
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+
+\noun on
+14/07/2022
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\align center
+
+\series bold
+\size larger
+\noun on
+7.More Terms To Know
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\align center
+
+\series bold
+\size larger
+\noun on
+7.1.Simple Linear Regression 
+\end_layout
+
+\begin_layout Standard
+\noindent
+Simple linear regression is a statistical method that we can use to find
+ a relationship between two variables and make predictions.
+ The two variables used are typically denoted as y and x.
+ The independent variable, or the variable used to predict the dependent
+ variable is denoted as x.
+ The dependent variable, or the outcome/output, is denoted as y.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Pictures/pasted5.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin centerBottom
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.2.Multiple Linear Regression
+\end_layout
+
+\begin_layout Standard
+Multiple linear regression attempts to model the relationship between two
+ or more features and a response by fitting a linear equation to the observed
+ data.
+ 
+\end_layout
+
+\begin_layout Standard
+Clearly, it is nothing but an extension of simple linear regression.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/pasted-image-0-1.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin centerBaseline
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.3.Polynomial Linear Regression
+\end_layout
+
+\begin_layout Standard
+Polynomial Regression is a form of linear regression in which the relationship
+ between the independent variable x and dependent variable y is modeled
+ as an nth degree polynomial.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/poly.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.4.Support Vector Regression(SVM)
+\end_layout
+
+\begin_layout Standard
+Support Vector Regression is a supervised learning algorithm that is used
+ to predict discrete values.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/svr.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.5.Decision Tree 
+\end_layout
+
+\begin_layout Standard
+Decision Tree is one of the most commonly used, practical approaches for
+ supervised learning.
+ It can be used to solve both Regression and Classification tasks with the
+ latter being put more into practical application.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/decision-tree-.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin centerBottom
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.6.Random Forest Regression 
+\end_layout
+
+\begin_layout Standard
+Random Forest Regression is a supervised learning algorithm that uses ensemble
+ learning method for regression.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/random.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+15/07/2022
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.7.KNN
+\end_layout
+
+\begin_layout Standard
+
+\size large
+k-nearest neighbor algorithm: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+This algorithm is used to solve the classification model problems.
+ K-nearest neighbor or K-NN algorithm basically creates an imaginary boundary
+ to classify the data.
+ When new data points come in, the algorithm will try to predict that to
+ the nearest of the boundary line.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CODE:
+\end_layout
+
+\begin_layout Standard
+# Import necessary modules
+\end_layout
+
+\begin_layout Standard
+from sklearn.neighbors import KNeighborsClassifier 
+\end_layout
+
+\begin_layout Standard
+from sklearn.model_selection import train_test_split
+\end_layout
+
+\begin_layout Standard
+from sklearn.datasets import load_iris
+\end_layout
+
+\begin_layout Standard
+import numpy as np
+\end_layout
+
+\begin_layout Standard
+import matplotlib.pyplot as plt
+\end_layout
+
+\begin_layout Standard
+irisData = load_iris()
+\end_layout
+
+\begin_layout Standard
+# Create feature and target arrays
+\end_layout
+
+\begin_layout Standard
+X = irisData.data
+\end_layout
+
+\begin_layout Standard
+y = irisData.target
+\end_layout
+
+\begin_layout Standard
+# Split into training and test set
+\end_layout
+
+\begin_layout Standard
+X_train, X_test, y_train, y_test = train_test_split( X, y, test_size = 0.2,
+ random_state=42)
+\end_layout
+
+\begin_layout Standard
+neighbors = np.arange(1, 9)
+\end_layout
+
+\begin_layout Standard
+train_accuracy = np.empty(len(neighbors))
+\end_layout
+
+\begin_layout Standard
+test_accuracy = np.empty(len(neighbors))
+\end_layout
+
+\begin_layout Standard
+# Loop over K values
+\end_layout
+
+\begin_layout Standard
+for i, k in enumerate(neighbors):
+\end_layout
+
+\begin_layout Standard
+knn = KNeighborsClassifier(n_neighbors=k)
+\end_layout
+
+\begin_layout Standard
+knn.fit(X_train, y_train) 
+\end_layout
+
+\begin_layout Standard
+# Compute training and test data accuracy
+\end_layout
+
+\begin_layout Standard
+train_accuracy[i] = knn.score(X_train, y_train)
+\end_layout
+
+\begin_layout Standard
+test_accuracy[i] = knn.score(X_test, y_test)
+\end_layout
+
+\begin_layout Standard
+# Generate plot
+\end_layout
+
+\begin_layout Standard
+plt.plot(neighbors, test_accuracy, label = 'Testing dataset Accuracy')
+\end_layout
+
+\begin_layout Standard
+plt.plot(neighbors, train_accuracy, label = 'Training dataset Accuracy')
+\end_layout
+
+\begin_layout Standard
+plt.legend()
+\end_layout
+
+\begin_layout Standard
+plt.xlabel('n_neighbors')
+\end_layout
+
+\begin_layout Standard
+plt.ylabel('Accuracy')
+\end_layout
+
+\begin_layout Standard
+plt.show() 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+OUTPUT:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename pasted5.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+7.8.Support Vector Machine(SVM)
+\end_layout
+
+\begin_layout Standard
+“Support Vector Machine” (SVM) is a supervised machine learning algorithm
+ that can be used for both classification or regression challenges.
+ However, it is mostly used in classification problems.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\align center
+\begin_inset Graphics
+	filename pasted6.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/KERNEL SVM.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+19/07/2022
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.9.K-Means Clustering 
+\end_layout
+
+\begin_layout Standard
+K-Means Clustering is an unsupervised learning algorithm that is used to
+ solve the clustering problems in machine learning or data science.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../Pictures/pasted7.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+\noun on
+7.10.K-Modes Clustering 
+\end_layout
+
+\begin_layout Standard
+K-Modes clustering is one of the unsupervised Machine Learning algorithms
+ that is used to cluster categorical variables.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Hp/Pictures/k mode.png
+	width 10cm
+	height 10cm
+	keepAspectRatio
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
